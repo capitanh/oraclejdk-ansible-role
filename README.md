@@ -13,7 +13,7 @@ Role Variables
 
 This role requires the following variables to be defined elsewhere in the playbook that uses it:
 ```yaml
-	- jdk_basedir            # Installation directory
+  - jdk_basedir            # Installation directory
 ```
 
 Dependencies
