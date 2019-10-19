@@ -11,7 +11,7 @@
     #dest: "/tmp/jdk-8u131-linux-x64.tar.gz"
     dest: "/tmp"
     headers:
-      - Cookie: oraclelicense=accept-securebackup-cookie'
+      Cookie: oraclelicense=accept-securebackup-cookie
 - name: Unarchive jdk
   unarchive:
     remote_src: true
