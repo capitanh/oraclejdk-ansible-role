@@ -1,0 +1,2 @@
+jdk_basedir:  /usr/lib/java  # JDK Install dir
+jdk_version:  jdk1.8.0_131   # JDK version
